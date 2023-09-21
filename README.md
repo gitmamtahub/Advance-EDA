@@ -12,3 +12,5 @@ In Python, we can use these libraries:
 4) autoviz
 
 These Advance EDA python packages only shows us a summary, before we focus to explore deeper any variables we find “interesting”.
+
+Please refer auto-viz and sweetviz zip folders for all graphs/plots in html format
